@@ -1,1 +1,0 @@
-# beauty-wellness-data-science-week2-main
